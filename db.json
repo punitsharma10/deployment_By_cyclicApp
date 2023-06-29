@@ -1,0 +1,21 @@
+{
+    "persons": [
+      { "name": "Punit Sharma", "age": 22 },
+      { "name": "Ashish Dxt", "age": 21 },
+      { "name": "Umang OMTP", "age": 21 },
+      { "name": "Shivansh Sharma", "age": 21 }
+    ],
+    "cars": [
+      { "make": "BMW", "model": "koi bhi chalega", "year": 2022 },
+      { "make": "Honda", "model": "Accord", "year": 2021 },
+      { "make": "Fortuner", "model": "koi bhi", "year": 2023 },
+      { "make": "Fortuner", "model": "koi bhi", "year": 2023 }
+    ],
+    "Cars": [
+        { "title": "Harry Potter", "author": "J.K. Rowling", "year": 1997 },
+        { "title": "To Kill a Mockingbird", "author": "Harper Lee", "year": 1960 },
+        { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "year": 1925 },
+        { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "year": 1925 }
+      ]
+  }
+  
